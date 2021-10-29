@@ -36,7 +36,6 @@ import javax.net.ssl.TrustManager;
 import javax.net.ssl.X509ExtendedTrustManager;
 import javax.swing.JFrame;
 
-//delete this comment
 
 public class Autoscript{
     public static void main(String[] args) throws Exception {
