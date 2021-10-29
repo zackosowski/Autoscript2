@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Autoscript",
+            "request": "launch",
+            "mainClass": "app.Autoscript",
+            "projectName": "Autoscript 2.0"
+        }
+    ]
+}
